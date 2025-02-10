@@ -1,4 +1,4 @@
-"use strict"; // Aktivere JS-strikt mode, hvilket hjælper med at finde fejl
+"use strict"; // Aktiverer JS-strikt mode, hvilket hjælper med at finde fejl
 
 function addToCart(product){
     // hent nuværende værdi fra inputfeltet med specifikt id og omdan til et tal
